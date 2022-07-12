@@ -7,6 +7,7 @@ This test is about partition test case item or feature in application then test 
 <ol>
     <li>Katalon Studio</li>
     <li>E-Commerce Sample Application</li>
+    <li>Xiaomi Redmi 9 (Real Device)</li>
 </ol>
 
 ## Result
