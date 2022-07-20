@@ -24,15 +24,15 @@ Mobile.tap(findTestObject('Object Repository/android.widget.Button - CHECKOUT (1
 
 Mobile.tap(findTestObject('Object Repository/android.widget.LinearLayout (5)'), 0)
 
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText - Machrush Aliy'), ' ', 0)
+Mobile.setText(findTestObject('Object Repository/android.widget.EditText - Machrush Aliy'), '', 0)
 
 Mobile.tap(findTestObject('Object Repository/android.widget.EditText - machrushaliy.id'), 0)
 
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText - machrushaliy.id (1)'), ' ', 0)
+Mobile.setText(findTestObject('Object Repository/android.widget.EditText - machrushaliy.id (1)'), '', 0)
 
 Mobile.tap(findTestObject('Object Repository/android.widget.EditText - 62897-5500-905'), 0)
 
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText - 62897-5500-905 (1)'), ' ', 0)
+Mobile.setText(findTestObject('Object Repository/android.widget.EditText - 62897-5500-905 (1)'), '', 0)
 
 Mobile.tap(findTestObject('Object Repository/android.widget.EditText - Katalona Street No. 45, Groovy'), 0)
 
